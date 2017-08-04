@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 1000000000,
+"dataUrl": "August 4 D.data.unityweb",
+"asmCodeUrl": "August 4 D.asm.code.unityweb",
+"asmMemoryUrl": "August 4 D.asm.memory.unityweb",
+"asmFrameworkUrl": "August 4 D.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
